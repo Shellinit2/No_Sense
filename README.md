@@ -1,5 +1,4 @@
 # No_Sense
-Realsense is so too expensive INTEL
 
 So, I want a realsense but its 50k so fuck you intel…
 
