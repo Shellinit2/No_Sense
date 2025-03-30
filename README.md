@@ -12,10 +12,11 @@ And then put an IMU on it to calculate optical flow.
 
 
 How does sterio work:
+So there are 2 cameras looking at the same thing. parallel system ofcourse (for now for sure, lucius fox … too much power for one person my ass). 
+There will be a little bit of difference in the feature’s pixel position in the images. This is called disparity. And this is directly proportional to the distance of the object. 
 
-		So there are 2 cameras looking at the same thing. parallel system ofcourse (for now for sure, lucius fox … too much power for one person my ass). 
 
-		There will be a little bit of difference in the feature’s pixel position in the images. This is called disparity. And this is directly proportional to the distance of the object. 
+		
 
 
 
