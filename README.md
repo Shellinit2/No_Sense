@@ -1,6 +1,6 @@
 # No_Sense
 
-So, I want a realsense but its 50k so fuck you intel…
+So, I want a realsense but its 50k so fuck you INTEL…
 
 
 
